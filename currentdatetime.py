@@ -6,7 +6,7 @@ https://www.w3schools.com/python/python_datetime.asp
 """
 """
 TO DO:
-
+1. Add Comments.
 """
 import datetime
 
@@ -30,7 +30,5 @@ elif prefixNo == 3 | prefixNo == 23:
     prefix = "rd"
 elif (prefixNo > 3 & prefixNo < 21) | (prefixNo > 23 & prefixNo < 31):
     prefix = "th"
-
-
 
 print(wday+",",month,dayNo+prefix,year,time[0:5]+ampm)

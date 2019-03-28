@@ -1,7 +1,7 @@
 # Question 6
 """
 TO DO:
-**Works as intended**
+1. Deal with numbers and boolean.
 """
 sentence = input("Please enter a sentence: ")
 sentenceList = sentence.split()

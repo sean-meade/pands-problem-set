@@ -1,3 +1,9 @@
+# Question 1
+"""
+TO DO:
+**Works as should.**
+"""
+
 # Created input prompt to save integer as variable num
 num = input("Please enter a positive integer: ")
 # Converted string to integer

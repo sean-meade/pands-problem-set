@@ -1,3 +1,9 @@
+# Question 2
+"""
+TO DO:
+1. Test with input date rather then current date.
+"""
+
 # Import datetime module
 import datetime
 # If weekday is equal to Tuesday (1) or Thursday (3)

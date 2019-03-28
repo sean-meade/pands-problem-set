@@ -2,6 +2,7 @@
 """
 TO DO:
 1. Deal with numbers and boolean.
+2. Add Comments.
 """
 sentence = input("Please enter a sentence: ")
 sentenceList = sentence.split()

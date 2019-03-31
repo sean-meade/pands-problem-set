@@ -1,7 +1,6 @@
 # Question 6
 """
 TO DO:
-2. Add Comments.
 """
 # Created input prompt to save integer as variable sentence
 sentence = input("Please enter a sentence: ")
@@ -11,8 +10,8 @@ sentenceList = sentence.split()
 finalList = []
 # Create an empty string to place words of converted sentence
 finalSentence = ''
-# for a number (i) select every second element with a range from 
-# zero to length of sentence list.
+
+# for a number (i) select every second element with a range from zero to length of sentence list.
 for i in range(0, len(sentenceList), 2):
     # Add every second work to empyt list finalList
     finalList.append(sentenceList[i])

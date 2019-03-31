@@ -2,11 +2,11 @@
 """
 TO DO:
 """
-
 # Create prompt to take in integer as a variable
 num = input("Please enter a positive integer: ")
 # Create an empty variable to hold statement
 statement = ""
+
 # Try this block of code if no error run
 try:
     # Convert input (num)to integer
@@ -42,5 +42,6 @@ try:
 except ValueError:
     # Print this is not an integer.
     statement = "This is not an integer."
+    
 # Print whichever statement is returned.
 print(statement)

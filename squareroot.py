@@ -1,13 +1,12 @@
 # Question 7
 """
 TO DO:
-2. Add comments
 """
 # Import math module.
 import math
-
 # Set varible to hold input number.
 num = input("Please enter a positive number: ")
+
 # Try this code for errors
 try:
     # Convert num to a float number

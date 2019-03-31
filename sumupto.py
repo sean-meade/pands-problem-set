@@ -2,9 +2,9 @@
 """
 TO DO:
 """
-
 # Created input prompt to save integer as variable num
 num = input("Please enter a positive integer: ")
+
 # Try this code for errors
 try:
     # Converted string to integer
@@ -24,6 +24,7 @@ try:
         # Print statement.
         print("This is not a positive integer. Please try again.")
 # If there is an error run this code.
+
 except ValueError:
     # The error will be caused by the input of a string or boolean so print statement.
     print("This is not a number. Please try again.")

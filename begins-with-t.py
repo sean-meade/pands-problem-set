@@ -2,7 +2,6 @@
 """
 TO DO:
 """
-
 # Import datetime module
 import datetime
 # If weekday is equal to Tuesday (1) or Thursday (3)

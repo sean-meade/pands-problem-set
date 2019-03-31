@@ -15,9 +15,9 @@ TO DO:
 
 # Create prompt to collect input integer as variable.
 num = input("Please enter a positive integer: ")
-# Convert num from string to integer.
 # Create list to hold numbers.
 numsList = []
+
 # Try this code and if no errors run this code.
 try:
     # Convert input (num) to an integer.
@@ -38,6 +38,7 @@ try:
             numsList.append(int(num))
     # Go through list and print as string and seperate each element with a space (ie " ")
     print(" ".join(str(a) for a in numsList))
+
 # If there is an error run this instead.
 except ValueError:
     # The error means the input wasn't and integer so print statement.

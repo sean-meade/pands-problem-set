@@ -9,9 +9,9 @@ TO DO:
 """
 # Import datetime module
 import datetime
+
 # Set the datetime values of now as a variable
 today = datetime.datetime.now()
-
 # Set varible to store the weekday name
 wday = today.strftime('%A')
 # Set varible to store the month name

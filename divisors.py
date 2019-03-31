@@ -1,7 +1,6 @@
 # Qustion 3
 """
 TO DO:
-**Works as should**
 """
 
 # Loop through numbers from 1000 to 10000

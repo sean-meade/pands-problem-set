@@ -1,7 +1,6 @@
 # Question 2
 """
 TO DO:
-1. Test with input date rather then current date.
 """
 
 # Import datetime module
